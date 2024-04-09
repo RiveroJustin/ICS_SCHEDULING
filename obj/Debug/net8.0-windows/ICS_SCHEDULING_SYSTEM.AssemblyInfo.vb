@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ICS_SCHEDULING_SYSTEM"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7254b37052f96e7c2d794aee5ecd81efc060e3d8"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5be1dae731d587f96ba42df1b44b5adfc92a3ab8"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ICS_SCHEDULING_SYSTEM"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ICS_SCHEDULING_SYSTEM"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

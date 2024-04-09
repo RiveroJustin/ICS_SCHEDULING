@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\users\\ravem\\onedrive\\desktop\\ics_scheduling\\createscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:createscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\users\\ravem\\onedrive\\desktop\\ics_scheduling\\schedulestable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:schedulestable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\users\\ravem\\onedrive\\desktop\\ics_scheduling\\createscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:createscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateScheduleForm.vb",
+              "DocumentMoniker": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\CreateScheduleForm.vb",
+              "RelativeDocumentMoniker": "CreateScheduleForm.vb",
+              "ToolTip": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\CreateScheduleForm.vb",
+              "RelativeToolTip": "CreateScheduleForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-09T07:44:16.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateScheduleForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\CreateScheduleForm.vb",
+              "RelativeDocumentMoniker": "CreateScheduleForm.vb",
+              "ToolTip": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\CreateScheduleForm.vb [Design]",
+              "RelativeToolTip": "CreateScheduleForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-09T07:35:46.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchedulesTable.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\SchedulesTable.vb",
+              "RelativeDocumentMoniker": "SchedulesTable.vb",
+              "ToolTip": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\SchedulesTable.vb [Design]",
+              "RelativeToolTip": "SchedulesTable.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-09T07:35:31.976Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

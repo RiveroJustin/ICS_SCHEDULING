@@ -1791,11 +1791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ICS_SCHED_SYSTEM\\ICS_SCHEDULING_SYSTEM.vbproj",
+      "projectUniqueName": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\ICS_SCHEDULING_SYSTEM.vbproj",
       "projectName": "ICS_SCHEDULING_SYSTEM",
-      "projectPath": "E:\\ICS_SCHED_SYSTEM\\ICS_SCHEDULING_SYSTEM.vbproj",
+      "projectPath": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\ICS_SCHEDULING_SYSTEM.vbproj",
       "packagesPath": "C:\\Users\\ravem\\.nuget\\packages\\",
-      "outputPath": "E:\\ICS_SCHED_SYSTEM\\obj\\",
+      "outputPath": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ravem\\AppData\\Roaming\\NuGet\\NuGet.Config",

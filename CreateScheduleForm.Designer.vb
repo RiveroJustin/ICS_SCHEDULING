@@ -24,18 +24,16 @@ Partial Class CreateScheduleForm
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(CreateScheduleForm))
         Panel1 = New Panel()
+        EndTIme = New DateTimePicker()
+        StartTime = New DateTimePicker()
         Panel10 = New Panel()
         txt_search = New TextBox()
         Panel9 = New Panel()
         txt_room = New TextBox()
         Panel8 = New Panel()
         txt_building = New TextBox()
-        Panel7 = New Panel()
-        txt_endTime = New TextBox()
         Panel6 = New Panel()
         txt_day = New TextBox()
-        Panel5 = New Panel()
-        txt_startTime = New TextBox()
         Panel4 = New Panel()
         txt_subject = New TextBox()
         Panel3 = New Panel()
@@ -62,9 +60,7 @@ Partial Class CreateScheduleForm
         Panel10.SuspendLayout()
         Panel9.SuspendLayout()
         Panel8.SuspendLayout()
-        Panel7.SuspendLayout()
         Panel6.SuspendLayout()
-        Panel5.SuspendLayout()
         Panel4.SuspendLayout()
         Panel3.SuspendLayout()
         Panel2.SuspendLayout()
@@ -77,12 +73,12 @@ Partial Class CreateScheduleForm
         ' Panel1
         ' 
         Panel1.BackColor = Color.FromArgb(CByte(246), CByte(246), CByte(222))
+        Panel1.Controls.Add(EndTIme)
+        Panel1.Controls.Add(StartTime)
         Panel1.Controls.Add(Panel10)
         Panel1.Controls.Add(Panel9)
         Panel1.Controls.Add(Panel8)
-        Panel1.Controls.Add(Panel7)
         Panel1.Controls.Add(Panel6)
-        Panel1.Controls.Add(Panel5)
         Panel1.Controls.Add(Panel4)
         Panel1.Controls.Add(Panel3)
         Panel1.Controls.Add(Panel2)
@@ -102,6 +98,28 @@ Partial Class CreateScheduleForm
         Panel1.Name = "Panel1"
         Panel1.Size = New Size(1488, 721)
         Panel1.TabIndex = 0
+        ' 
+        ' EndTIme
+        ' 
+        EndTIme.Font = New Font("Calibri", 24.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        EndTIme.Format = DateTimePickerFormat.Time
+        EndTIme.Location = New Point(444, 404)
+        EndTIme.Name = "EndTIme"
+        EndTIme.ShowUpDown = True
+        EndTIme.Size = New Size(239, 48)
+        EndTIme.TabIndex = 35
+        ' 
+        ' StartTime
+        ' 
+        StartTime.Anchor = AnchorStyles.Top Or AnchorStyles.Left Or AnchorStyles.Right
+        StartTime.CustomFormat = ""
+        StartTime.Font = New Font("Calibri", 24.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        StartTime.Format = DateTimePickerFormat.Time
+        StartTime.Location = New Point(110, 404)
+        StartTime.Name = "StartTime"
+        StartTime.ShowUpDown = True
+        StartTime.Size = New Size(239, 48)
+        StartTime.TabIndex = 34
         ' 
         ' Panel10
         ' 
@@ -166,27 +184,6 @@ Partial Class CreateScheduleForm
         txt_building.Size = New Size(214, 26)
         txt_building.TabIndex = 0
         ' 
-        ' Panel7
-        ' 
-        Panel7.BackColor = Color.LightYellow
-        Panel7.BorderStyle = BorderStyle.FixedSingle
-        Panel7.Controls.Add(txt_endTime)
-        Panel7.Location = New Point(444, 404)
-        Panel7.Name = "Panel7"
-        Panel7.Size = New Size(239, 50)
-        Panel7.TabIndex = 8
-        ' 
-        ' txt_endTime
-        ' 
-        txt_endTime.BackColor = Color.LightYellow
-        txt_endTime.BorderStyle = BorderStyle.None
-        txt_endTime.CharacterCasing = CharacterCasing.Upper
-        txt_endTime.Font = New Font("Calibri", 15.75F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        txt_endTime.Location = New Point(13, 9)
-        txt_endTime.Name = "txt_endTime"
-        txt_endTime.Size = New Size(214, 26)
-        txt_endTime.TabIndex = 0
-        ' 
         ' Panel6
         ' 
         Panel6.BackColor = Color.LightYellow
@@ -207,27 +204,6 @@ Partial Class CreateScheduleForm
         txt_day.Name = "txt_day"
         txt_day.Size = New Size(214, 26)
         txt_day.TabIndex = 0
-        ' 
-        ' Panel5
-        ' 
-        Panel5.BackColor = Color.LightYellow
-        Panel5.BorderStyle = BorderStyle.FixedSingle
-        Panel5.Controls.Add(txt_startTime)
-        Panel5.Location = New Point(110, 404)
-        Panel5.Name = "Panel5"
-        Panel5.Size = New Size(239, 50)
-        Panel5.TabIndex = 8
-        ' 
-        ' txt_startTime
-        ' 
-        txt_startTime.BackColor = Color.LightYellow
-        txt_startTime.BorderStyle = BorderStyle.None
-        txt_startTime.CharacterCasing = CharacterCasing.Upper
-        txt_startTime.Font = New Font("Calibri", 15.75F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        txt_startTime.Location = New Point(13, 9)
-        txt_startTime.Name = "txt_startTime"
-        txt_startTime.Size = New Size(214, 26)
-        txt_startTime.TabIndex = 0
         ' 
         ' Panel4
         ' 
@@ -496,12 +472,8 @@ Partial Class CreateScheduleForm
         Panel9.PerformLayout()
         Panel8.ResumeLayout(False)
         Panel8.PerformLayout()
-        Panel7.ResumeLayout(False)
-        Panel7.PerformLayout()
         Panel6.ResumeLayout(False)
         Panel6.PerformLayout()
-        Panel5.ResumeLayout(False)
-        Panel5.PerformLayout()
         Panel4.ResumeLayout(False)
         Panel4.PerformLayout()
         Panel3.ResumeLayout(False)
@@ -541,14 +513,12 @@ Partial Class CreateScheduleForm
     Friend WithEvents Panel4 As Panel
     Friend WithEvents Panel8 As Panel
     Friend WithEvents txt_building As TextBox
-    Friend WithEvents Panel7 As Panel
-    Friend WithEvents txt_endTime As TextBox
     Friend WithEvents Panel6 As Panel
     Friend WithEvents txt_day As TextBox
-    Friend WithEvents Panel5 As Panel
-    Friend WithEvents txt_startTime As TextBox
     Friend WithEvents Panel10 As Panel
     Friend WithEvents txt_search As TextBox
     Friend WithEvents Panel9 As Panel
     Friend WithEvents txt_room As TextBox
+    Friend WithEvents StartTime As DateTimePicker
+    Friend WithEvents EndTIme As DateTimePicker
 End Class
