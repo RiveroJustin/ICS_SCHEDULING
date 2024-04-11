@@ -1786,19 +1786,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ravem\\.nuget\\packages\\": {}
+    "C:\\Users\\Justin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\ICS_SCHEDULING_SYSTEM.vbproj",
+      "projectUniqueName": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\ICS_SCHEDULING_SYSTEM.vbproj",
       "projectName": "ICS_SCHEDULING_SYSTEM",
-      "projectPath": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\ICS_SCHEDULING_SYSTEM.vbproj",
-      "packagesPath": "C:\\Users\\ravem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\obj\\",
+      "projectPath": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\ICS_SCHEDULING_SYSTEM.vbproj",
+      "packagesPath": "C:\\Users\\Justin\\.nuget\\packages\\",
+      "outputPath": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ravem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Justin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

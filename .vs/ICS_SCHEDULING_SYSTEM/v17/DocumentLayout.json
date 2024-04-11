@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\",
+  "WorkspaceRootPath": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\users\\ravem\\onedrive\\desktop\\ics_scheduling\\createscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:createscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\ics scheduling\\ics_scheduling\\instructorlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:instructorlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\users\\ravem\\onedrive\\desktop\\ics_scheduling\\schedulestable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:schedulestable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\ics scheduling\\ics_scheduling\\databaseconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:databaseconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\users\\ravem\\onedrive\\desktop\\ics_scheduling\\createscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:createscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\ics scheduling\\ics_scheduling\\ics_scheduling_system.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:ics_scheduling_system.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|C:\\ICS SCHEDULING\\ICS_SCHEDULING\\schedlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:schedlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|C:\\ICS SCHEDULING\\ICS_SCHEDULING\\instructorlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:instructorlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\ics scheduling\\ics_scheduling\\schedlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:schedlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|C:\\ICS SCHEDULING\\ICS_SCHEDULING\\sectionlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:sectionlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|C:\\ICS SCHEDULING\\ICS_SCHEDULING\\facilitylistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:facilitylistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|C:\\ICS SCHEDULING\\ICS_SCHEDULING\\managementscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:managementscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|c:\\ics scheduling\\ics_scheduling\\managementscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4CB2742-3514-4B20-BB58-7BDD607CE7D2}|ICS_SCHEDULING_SYSTEM.vbproj|solutionrelative:managementscheduleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +50,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateScheduleForm.vb",
-              "DocumentMoniker": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\CreateScheduleForm.vb",
-              "RelativeDocumentMoniker": "CreateScheduleForm.vb",
-              "ToolTip": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\CreateScheduleForm.vb",
-              "RelativeToolTip": "CreateScheduleForm.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAPAAAA",
+              "Title": "ICS_SCHEDULING_SYSTEM",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\ICS_SCHEDULING_SYSTEM.vbproj",
+              "RelativeDocumentMoniker": "ICS_SCHEDULING_SYSTEM.vbproj",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\ICS_SCHEDULING_SYSTEM.vbproj",
+              "RelativeToolTip": "ICS_SCHEDULING_SYSTEM.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-04-10T11:29:16.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseConnection.vb",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\DatabaseConnection.vb",
+              "RelativeDocumentMoniker": "DatabaseConnection.vb",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\DatabaseConnection.vb",
+              "RelativeToolTip": "DatabaseConnection.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-09T07:44:16.5Z",
+              "WhenOpened": "2024-04-10T08:32:46.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateScheduleForm.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\CreateScheduleForm.vb",
-              "RelativeDocumentMoniker": "CreateScheduleForm.vb",
-              "ToolTip": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\CreateScheduleForm.vb [Design]",
-              "RelativeToolTip": "CreateScheduleForm.vb [Design]",
+              "Title": "InstructorListForm.vb",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\InstructorListForm.vb",
+              "RelativeDocumentMoniker": "InstructorListForm.vb",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\InstructorListForm.vb",
+              "RelativeToolTip": "InstructorListForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-09T07:35:46.466Z",
+              "WhenOpened": "2024-04-10T08:40:26.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchedListForm.vb [Design]",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\SchedListForm.vb",
+              "RelativeDocumentMoniker": "SchedListForm.vb",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\SchedListForm.vb [Design]",
+              "RelativeToolTip": "SchedListForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T05:07:12.928Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SchedulesTable.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\SchedulesTable.vb",
-              "RelativeDocumentMoniker": "SchedulesTable.vb",
-              "ToolTip": "C:\\Users\\ravem\\OneDrive\\Desktop\\ICS_SCHEDULING\\SchedulesTable.vb [Design]",
-              "RelativeToolTip": "SchedulesTable.vb [Design]",
+              "DocumentIndex": 4,
+              "Title": "InstructorListForm.vb [Design]",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\InstructorListForm.vb",
+              "RelativeDocumentMoniker": "InstructorListForm.vb",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\InstructorListForm.vb [Design]",
+              "RelativeToolTip": "InstructorListForm.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-09T07:35:31.976Z",
+              "WhenOpened": "2024-04-10T04:55:17.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchedListForm.vb",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\SchedListForm.vb",
+              "RelativeDocumentMoniker": "SchedListForm.vb",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\SchedListForm.vb",
+              "RelativeToolTip": "SchedListForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T09:11:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SectionListForm.vb [Design]",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\SectionListForm.vb",
+              "RelativeDocumentMoniker": "SectionListForm.vb",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\SectionListForm.vb [Design]",
+              "RelativeToolTip": "SectionListForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T05:09:42.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FacilityListForm.vb [Design]",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\FacilityListForm.vb",
+              "RelativeDocumentMoniker": "FacilityListForm.vb",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\FacilityListForm.vb [Design]",
+              "RelativeToolTip": "FacilityListForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T05:13:24.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagementScheduleForm.vb",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\ManagementScheduleForm.vb",
+              "RelativeDocumentMoniker": "ManagementScheduleForm.vb",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\ManagementScheduleForm.vb",
+              "RelativeToolTip": "ManagementScheduleForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T05:15:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagementScheduleForm.vb [Design]",
+              "DocumentMoniker": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\ManagementScheduleForm.vb",
+              "RelativeDocumentMoniker": "ManagementScheduleForm.vb",
+              "ToolTip": "C:\\ICS SCHEDULING\\ICS_SCHEDULING\\ManagementScheduleForm.vb [Design]",
+              "RelativeToolTip": "ManagementScheduleForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-10T04:32:11.482Z",
               "EditorCaption": " [Design]"
             }
           ]

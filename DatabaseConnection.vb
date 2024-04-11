@@ -7,8 +7,8 @@ Module DatabaseConnection
 
     Public Sub DBCon()
         Try
-            'No connection
-            con.ConnectionString = "server=localhost;username=root;password=;database="
+
+            con.ConnectionString = "server=192.168.0.112;username=2d;password=johnrave29;database=ics_scheduling_db"
             con.Open()
         Catch ex As Exception
             MessageBox.Show(ex.ToString())

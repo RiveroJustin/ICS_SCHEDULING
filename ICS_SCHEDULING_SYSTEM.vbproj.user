@@ -16,10 +16,25 @@
     <Compile Update="allInstructor.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FacilityListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InstructorListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagementScheduleForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SchedListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="SchedulePopupForm.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="SchedulesTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SectionListForm.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

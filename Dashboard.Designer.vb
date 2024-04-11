@@ -56,8 +56,9 @@ Partial Class Dashboard
         Panel1.Controls.Add(PictureBox1)
         Panel1.Dock = DockStyle.Left
         Panel1.Location = New Point(0, 0)
+        Panel1.Margin = New Padding(3, 4, 3, 4)
         Panel1.Name = "Panel1"
-        Panel1.Size = New Size(79, 756)
+        Panel1.Size = New Size(90, 1008)
         Panel1.TabIndex = 0
         ' 
         ' ProfileBtn
@@ -72,9 +73,10 @@ Partial Class Dashboard
         ProfileBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(29), CByte(53), CByte(50))
         ProfileBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(29), CByte(53), CByte(50))
         ProfileBtn.FlatStyle = FlatStyle.Flat
-        ProfileBtn.Location = New Point(12, 611)
+        ProfileBtn.Location = New Point(14, 815)
+        ProfileBtn.Margin = New Padding(3, 4, 3, 4)
         ProfileBtn.Name = "ProfileBtn"
-        ProfileBtn.Size = New Size(48, 44)
+        ProfileBtn.Size = New Size(55, 59)
         ProfileBtn.TabIndex = 2
         ProfileBtn.UseVisualStyleBackColor = False
         ' 
@@ -90,9 +92,10 @@ Partial Class Dashboard
         LogoutBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(29), CByte(53), CByte(50))
         LogoutBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(29), CByte(53), CByte(50))
         LogoutBtn.FlatStyle = FlatStyle.Flat
-        LogoutBtn.Location = New Point(12, 684)
+        LogoutBtn.Location = New Point(14, 912)
+        LogoutBtn.Margin = New Padding(3, 4, 3, 4)
         LogoutBtn.Name = "LogoutBtn"
-        LogoutBtn.Size = New Size(48, 44)
+        LogoutBtn.Size = New Size(55, 59)
         LogoutBtn.TabIndex = 1
         LogoutBtn.UseVisualStyleBackColor = False
         ' 
@@ -101,9 +104,10 @@ Partial Class Dashboard
         PictureBox1.BackColor = Color.Transparent
         PictureBox1.BackgroundImage = CType(resources.GetObject("PictureBox1.BackgroundImage"), Image)
         PictureBox1.BackgroundImageLayout = ImageLayout.Zoom
-        PictureBox1.Location = New Point(16, 9)
+        PictureBox1.Location = New Point(18, 12)
+        PictureBox1.Margin = New Padding(3, 4, 3, 4)
         PictureBox1.Name = "PictureBox1"
-        PictureBox1.Size = New Size(44, 42)
+        PictureBox1.Size = New Size(50, 56)
         PictureBox1.TabIndex = 1
         PictureBox1.TabStop = False
         ' 
@@ -114,9 +118,10 @@ Partial Class Dashboard
         Panel2.Controls.Add(closeBtn)
         Panel2.Controls.Add(Label1)
         Panel2.Dock = DockStyle.Top
-        Panel2.Location = New Point(79, 0)
+        Panel2.Location = New Point(90, 0)
+        Panel2.Margin = New Padding(3, 4, 3, 4)
         Panel2.Name = "Panel2"
-        Panel2.Size = New Size(1404, 61)
+        Panel2.Size = New Size(1605, 81)
         Panel2.TabIndex = 1
         ' 
         ' minimizeBtn
@@ -125,9 +130,10 @@ Partial Class Dashboard
         minimizeBtn.BackgroundImage = CType(resources.GetObject("minimizeBtn.BackgroundImage"), Image)
         minimizeBtn.BackgroundImageLayout = ImageLayout.Stretch
         minimizeBtn.Cursor = Cursors.Hand
-        minimizeBtn.Location = New Point(1351, 3)
+        minimizeBtn.Location = New Point(1544, 4)
+        minimizeBtn.Margin = New Padding(3, 4, 3, 4)
         minimizeBtn.Name = "minimizeBtn"
-        minimizeBtn.Size = New Size(22, 21)
+        minimizeBtn.Size = New Size(25, 28)
         minimizeBtn.TabIndex = 3
         minimizeBtn.TabStop = False
         ' 
@@ -137,9 +143,10 @@ Partial Class Dashboard
         closeBtn.BackgroundImage = CType(resources.GetObject("closeBtn.BackgroundImage"), Image)
         closeBtn.BackgroundImageLayout = ImageLayout.Stretch
         closeBtn.Cursor = Cursors.Hand
-        closeBtn.Location = New Point(1370, 3)
+        closeBtn.Location = New Point(1566, 4)
+        closeBtn.Margin = New Padding(3, 4, 3, 4)
         closeBtn.Name = "closeBtn"
-        closeBtn.Size = New Size(22, 21)
+        closeBtn.Size = New Size(25, 28)
         closeBtn.TabIndex = 2
         closeBtn.TabStop = False
         ' 
@@ -149,9 +156,9 @@ Partial Class Dashboard
         Label1.BackColor = Color.Transparent
         Label1.Font = New Font("Calibri", 26.25F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Label1.ForeColor = Color.WhiteSmoke
-        Label1.Location = New Point(0, 9)
+        Label1.Location = New Point(0, 12)
         Label1.Name = "Label1"
-        Label1.Size = New Size(206, 42)
+        Label1.Size = New Size(260, 54)
         Label1.TabIndex = 0
         Label1.Text = "DASHBOARD"
         ' 
@@ -166,9 +173,10 @@ Partial Class Dashboard
         Panel3.Controls.Add(Button2)
         Panel3.Controls.Add(Button1)
         Panel3.Dock = DockStyle.Fill
-        Panel3.Location = New Point(79, 61)
+        Panel3.Location = New Point(90, 81)
+        Panel3.Margin = New Padding(3, 4, 3, 4)
         Panel3.Name = "Panel3"
-        Panel3.Size = New Size(1404, 695)
+        Panel3.Size = New Size(1605, 927)
         Panel3.TabIndex = 2
         ' 
         ' Button8
@@ -181,9 +189,10 @@ Partial Class Dashboard
         Button8.Font = New Font("Calibri", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Button8.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
         Button8.Image = CType(resources.GetObject("Button8.Image"), Image)
-        Button8.Location = New Point(736, 507)
+        Button8.Location = New Point(841, 676)
+        Button8.Margin = New Padding(3, 4, 3, 4)
         Button8.Name = "Button8"
-        Button8.Size = New Size(591, 122)
+        Button8.Size = New Size(675, 163)
         Button8.TabIndex = 15
         Button8.Text = "    Management"
         Button8.TextAlign = ContentAlignment.MiddleRight
@@ -200,9 +209,10 @@ Partial Class Dashboard
         Button7.Font = New Font("Calibri", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Button7.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
         Button7.Image = CType(resources.GetObject("Button7.Image"), Image)
-        Button7.Location = New Point(68, 507)
+        Button7.Location = New Point(78, 676)
+        Button7.Margin = New Padding(3, 4, 3, 4)
         Button7.Name = "Button7"
-        Button7.Size = New Size(591, 122)
+        Button7.Size = New Size(675, 163)
         Button7.TabIndex = 15
         Button7.Text = "    Summary"
         Button7.TextAlign = ContentAlignment.MiddleRight
@@ -219,9 +229,10 @@ Partial Class Dashboard
         Button6.Font = New Font("Calibri", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Button6.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
         Button6.Image = CType(resources.GetObject("Button6.Image"), Image)
-        Button6.Location = New Point(736, 350)
+        Button6.Location = New Point(841, 467)
+        Button6.Margin = New Padding(3, 4, 3, 4)
         Button6.Name = "Button6"
-        Button6.Size = New Size(591, 103)
+        Button6.Size = New Size(675, 137)
         Button6.TabIndex = 14
         Button6.Text = "    Subjects"
         Button6.TextAlign = ContentAlignment.MiddleRight
@@ -238,9 +249,10 @@ Partial Class Dashboard
         Button5.Font = New Font("Calibri", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Button5.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
         Button5.Image = CType(resources.GetObject("Button5.Image"), Image)
-        Button5.Location = New Point(68, 350)
+        Button5.Location = New Point(78, 467)
+        Button5.Margin = New Padding(3, 4, 3, 4)
         Button5.Name = "Button5"
-        Button5.Size = New Size(591, 103)
+        Button5.Size = New Size(675, 137)
         Button5.TabIndex = 13
         Button5.Text = "    Sections"
         Button5.TextAlign = ContentAlignment.MiddleRight
@@ -257,9 +269,10 @@ Partial Class Dashboard
         Button4.Font = New Font("Calibri", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Button4.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
         Button4.Image = CType(resources.GetObject("Button4.Image"), Image)
-        Button4.Location = New Point(736, 204)
+        Button4.Location = New Point(841, 272)
+        Button4.Margin = New Padding(3, 4, 3, 4)
         Button4.Name = "Button4"
-        Button4.Size = New Size(591, 103)
+        Button4.Size = New Size(675, 137)
         Button4.TabIndex = 12
         Button4.Text = "    Instructors"
         Button4.TextAlign = ContentAlignment.MiddleRight
@@ -276,9 +289,10 @@ Partial Class Dashboard
         Button3.Font = New Font("Calibri", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Button3.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
         Button3.Image = CType(resources.GetObject("Button3.Image"), Image)
-        Button3.Location = New Point(68, 204)
+        Button3.Location = New Point(78, 272)
+        Button3.Margin = New Padding(3, 4, 3, 4)
         Button3.Name = "Button3"
-        Button3.Size = New Size(591, 103)
+        Button3.Size = New Size(675, 137)
         Button3.TabIndex = 11
         Button3.Text = "    Facilities"
         Button3.TextAlign = ContentAlignment.MiddleRight
@@ -295,9 +309,10 @@ Partial Class Dashboard
         Button2.Font = New Font("Calibri", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Button2.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
         Button2.Image = CType(resources.GetObject("Button2.Image"), Image)
-        Button2.Location = New Point(736, 51)
+        Button2.Location = New Point(841, 68)
+        Button2.Margin = New Padding(3, 4, 3, 4)
         Button2.Name = "Button2"
-        Button2.Size = New Size(591, 103)
+        Button2.Size = New Size(675, 137)
         Button2.TabIndex = 10
         Button2.Text = "    New Schedule"
         Button2.TextAlign = ContentAlignment.MiddleRight
@@ -314,9 +329,10 @@ Partial Class Dashboard
         Button1.Font = New Font("Calibri", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Button1.ForeColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
         Button1.Image = CType(resources.GetObject("Button1.Image"), Image)
-        Button1.Location = New Point(68, 51)
+        Button1.Location = New Point(78, 68)
+        Button1.Margin = New Padding(3, 4, 3, 4)
         Button1.Name = "Button1"
-        Button1.Size = New Size(591, 103)
+        Button1.Size = New Size(675, 137)
         Button1.TabIndex = 9
         Button1.Text = "    New Instructor"
         Button1.TextAlign = ContentAlignment.MiddleRight
@@ -325,17 +341,18 @@ Partial Class Dashboard
         ' 
         ' Dashboard
         ' 
-        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         AutoSizeMode = AutoSizeMode.GrowAndShrink
         BackColor = Color.Beige
         BackgroundImageLayout = ImageLayout.Center
-        ClientSize = New Size(1483, 756)
+        ClientSize = New Size(1695, 1008)
         Controls.Add(Panel3)
         Controls.Add(Panel2)
         Controls.Add(Panel1)
         DoubleBuffered = True
         FormBorderStyle = FormBorderStyle.None
+        Margin = New Padding(3, 4, 3, 4)
         Name = "Dashboard"
         RightToLeftLayout = True
         StartPosition = FormStartPosition.CenterScreen
